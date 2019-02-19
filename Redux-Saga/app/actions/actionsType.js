@@ -1,0 +1,7 @@
+export  const ADD_MOVIE="ADDMOVIE";
+
+export  const FETCH_MOVIE="FITCHMOVIE";
+
+export  const FETCH_SUCCEEDED="FETCHSUCCEEDED";
+
+export  const FETCH_FAILED="FETCHFAILED";
