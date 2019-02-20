@@ -4,9 +4,9 @@ import BasicFlastList from './components/BasicFlastList'
 export default class App extends React.Component {
   render() {
     return (
-      <View >
+      
         <BasicFlastList/>
-      </View>
+     
     );
   }
 }
